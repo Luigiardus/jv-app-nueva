@@ -1,0 +1,15 @@
+{
+    "name": "miaplicacion",
+    "version": "1.0.0",
+    "description": "Una aplicación backend simple con Express",
+    "main": "index.js",
+    "scripts": {
+    "dev": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+    "express": "^4.17.2"
+    }
+}
